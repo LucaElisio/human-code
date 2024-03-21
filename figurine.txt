@@ -1,0 +1,28 @@
+1.  Apri il pacchetto
+2.  Se il pacchetto non è vuoto
+        Sfila una figurina dal pacchetto
+            Se è nell'album
+                metto nella lista figurine doppie
+            Altrimenti
+                incollo nell'album
+        Ripeti 2        
+    Altrimenti
+        Aspetto sabato
+
+3.  Se è sabato e sono con gli amici
+4.      Prendo figurina dalla lista delle figurine doppie
+            Se è diversa dalla figurina doppia del mio amico E non è nel mio album
+                Rimuovo la figurina dalla lista delle figurine doppie
+                Inserisco nell'album la figurina del mio amico
+                    Ripeto 4
+            Altrimenti
+                Se ho finito le figurine doppie
+                    Fine
+                Altrimenti
+                    Ripeti 4
+
+
+
+                 
+             
+
